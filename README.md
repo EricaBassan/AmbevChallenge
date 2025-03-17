@@ -31,10 +31,10 @@ O projeto continha 4 tabelas, em formato Planilha de Excel.
 **Tabele structure**
 
 **Tabele Parameters**
-Number of Columns: 3
-Periodicidade do processamento: diária e contínua
-Volumetria esperada: a definir
-Rotina de expurgo: a definir
+Number of Columns: 3  
+Periodicidade do processamento: diária e contínua  
+Volumetria esperada: a definir  
+Rotina de expurgo: a definir  
 Período de dados: a parti de 01/01/2024
 
 
@@ -50,9 +50,9 @@ Período de dados: a parti de 01/01/2024
 
 **Tabele Parameters**
 Number of Columns: 3
-Periodicidade do processamento: diária e contínua
-Volumetria esperada: a definir
-Rotina de expurgo: a definir
+Periodicidade do processamento: diária e contínua  
+Volumetria esperada: a definir  
+Rotina de expurgo: a definir  
 Período de dados: a parti de 01/01/2024
 
 
@@ -81,19 +81,19 @@ To match the visual identity of the Bees company, we generated a color palette, 
 
 
 
-**Font parameters**
-  General Font used: Segoe UI
-  Title Font: Segoe UI Semibold
-  Cards and KPIS Font: Segoe UI Semibold
-  Headers Font: Segoe UI Semibold
+**Font parameters**  
+  General Font used: Segoe UI  
+  Title Font: Segoe UI Semibold  
+  Cards and KPIS Font: Segoe UI Semibold  
+  Headers Font: Segoe UI Semibold   
 
 **Page Parameters**
-  Page Size
-  Cover: Type 16:9
-  Overall: Height (px): 1000 x Width (px) 1280
-  Users: Height (px): 1000 x Width (px) 1280
-  Items: Height (px): 1000 x Width (px) 1280
-  Forecast: Height (px): 800 x Width (px) 1280
+  Page Size  
+  Cover: Type 16:9  
+  Overall: Height (px): 1000 x Width (px) 1280  
+  Users: Height (px): 1000 x Width (px) 1280  
+  Items: Height (px): 1000 x Width (px) 1280  
+  Forecast: Height (px): 800 x Width (px) 1280  
 
   **Cover WallPaper**
 <p align="center">
