@@ -1,6 +1,6 @@
 # AmbevChallenge
 
-Repositório criado para documentação do Dashboard Ambev-BEES.
+Repository created for Ambev-BEES Dashboard documentation.
 
 <p align="center">
   <a href="">
