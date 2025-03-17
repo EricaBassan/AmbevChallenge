@@ -79,19 +79,15 @@ category	       String          Category of the beverage.
 
 To match the visual identity of the Bees company, we generated a color palette, which was used in the Dashboard theme.
 
-<p align="center">
-  <a href="">
-    <img src="Imagens\covid_cover.jpg"
-         alt="version">
-  </a>
 
-</p>
 
+**Font parameters**
   General Font used: Segoe UI
   Title Font: Segoe UI Semibold
   Cards and KPIS Font: Segoe UI Semibold
   Headers Font: Segoe UI Semibold
 
+**Page Parameters**
   Page Size
   Cover: Type 16:9
   Overall: Height (px): 1000 x Width (px) 1280
@@ -99,7 +95,7 @@ To match the visual identity of the Bees company, we generated a color palette, 
   Items: Height (px): 1000 x Width (px) 1280
   Forecast: Height (px): 800 x Width (px) 1280
 
-  Cover WallPaper
+  **Cover WallPaper**
 <p align="center">
   <a href="">
     <img src="Imagens\covid_cover.jpg"
@@ -108,7 +104,7 @@ To match the visual identity of the Bees company, we generated a color palette, 
 
 </p>
 
-  Background WallPaper
+  **Background WallPaper**
 
 <p align="center">
   <a href="">
