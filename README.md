@@ -2,10 +2,6 @@
 
 Repositório criado para documentação do Dashboard Ambev-BEES.
 
-
-<h1 align="center">Análise do PNAD COVID19 - IBGE </h1>
-
-
 <p align="center">
   <a href="">
     <img src="Imagens\covid_cover.jpg"
@@ -78,11 +74,11 @@ category	       String          Category of the beverage.
 
 
 
+
 # Theme
 
 To match the visual identity of the Bees company, we generated a color palette, which was used in the Dashboard theme.
 
-<h1 align="center">Theme Colors </h1>
 <p align="center">
   <a href="">
     <img src="Imagens\covid_cover.jpg"
@@ -104,7 +100,6 @@ To match the visual identity of the Bees company, we generated a color palette, 
   Forecast: Height (px): 800 x Width (px) 1280
 
   Cover WallPaper
-  <h1 align="center">Theme Colors </h1>
 <p align="center">
   <a href="">
     <img src="Imagens\covid_cover.jpg"
@@ -115,7 +110,6 @@ To match the visual identity of the Bees company, we generated a color palette, 
 
   Background WallPaper
 
-   <h1 align="center">WallPaper </h1>
 <p align="center">
   <a href="">
     <img src="Imagens\covid_cover.jpg"
