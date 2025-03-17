@@ -27,7 +27,7 @@ The project contains 4 tables, in Excel Spreadsheet format.
 
 **Table 1- Targets**  
 
-**Tabele structure**  
+**Table structure**  
 | Column Name	 | Type | Description |
 |:------------|:------------|:------------|
 | user_id      | Numeric      | User Id (Primary Key)      |
@@ -35,7 +35,7 @@ The project contains 4 tables, in Excel Spreadsheet format.
 | city	       | String       | City of the user      |
 | monthly revenue target       | Float      | Total Target for User    |
 
-**Tabele Parameters**  
+**Table Parameters**  
 Number of Columns: 4  
 Periodicity of processing: at user request   
 Expected volume: to be defined  
@@ -46,14 +46,14 @@ Data period: from 2024-01-01
 ---
 **Table 2- Users**
 
-**Tabele structure**
+**Table structure**
 | Column Name	 | Type | Description |
 |:------------|:------------|:------------|
 | user_id      | Numeric      | User Id (Primary Key)      |
 | category	       | String       | Category of the Place      |
 | city	       | String       | City of the user      |
 
-**Tabele Parameters**
+**Table Parameters**
 Number of Columns: 3  
 Periodicity of processing: at user request   
 Expected volume: to be defined  
@@ -64,7 +64,7 @@ Data period: from 2024-01-01
 ---
 **Table 3- Orders**
 
-**Tabele structure**
+**Table structure**
 | Column Name	 | Type | Description |
 |:------------|:------------|:------------|
 | user_id      | Numeric      | Order Id       |
@@ -73,7 +73,7 @@ Data period: from 2024-01-01
 | product_id       | Numeric       | Product Id      |
 | revenue       | Float     | Order Revenue     |
 
-**Tabele Parameters**
+**Table Parameters**
 Number of Columns: 5  
 Periodicity of processing: daily and continuous  
 Expected volume: to be defined  
@@ -84,13 +84,13 @@ Data period: from 2024-01-01
 ---
 **Table 4- Items**
 
-**Tabele structure**
+**Table structure**
 | Column Name	 | Type | Description |
 |:------------|:------------|:------------|
 | item_id     | Numeric      | Item Id (Primary Key)      |
 | category	       | String       | Category of the beverage      |
 
-**Tabele Parameters**
+**Table Parameters**
 Number of Columns: 2  
 Periodicity of processing: at user request  
 Expected volume: to be defined  
