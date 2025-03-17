@@ -35,6 +35,13 @@ Table 1- Targets
 
 
 Table 2- Users
+
+| Column Name	 | Type | Description |
+|:------------|:------------|:------------|
+| user_id      | Numeric      | User Id (Primary Key)      |
+| category	       | String       | Category of the Place      |
+| city	       | String       | City of the user      |
+
 Column Name	     Type            Description
 user_id          Numeric         User Id (Primary Key)
 category	       String          Category of the Place
