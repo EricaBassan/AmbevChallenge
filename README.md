@@ -17,7 +17,7 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 
 - [Tables and data source](#Tables and data source)
 - [Data Structure](#Data Structure)
-- [Measure and metrics](#Measure and metricss)
+- [Measure and metrics](#Measure and metrics)
 - [Theme](#Theme)
 
 
@@ -112,6 +112,23 @@ Some of the dimension tables had a unique relationship between them.
 </p>
 
 # Measure and metrics
+
+The users were categorized based on their number of purchases.  
+The category was called "User Category" and was divided into 3:  
+-Large Buyers    
+-Mid-tier Buyers  
+-Small Buyers  
+
+In addition, users were also clustered according to their purchase frequency.  
+Based on this cluster, they were divided into 3:  
+-Highly Engaged      
+-Moderately Engaged    
+-Infrequently Engaged  
+
+Based on these two previous categories, we created a churn indicator.  
+Users with the lowest purchase frequencies and the lowest number of orders were classified as having a high risk of churn;  
+Users with the lowest purchase frequencies and a moderate number of orders were classified as having a possibility of churn;  
+The rest were classified as having no risk.  
 
 # Theme
 
