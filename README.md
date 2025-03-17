@@ -16,9 +16,8 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 ## Sumário
 
 - [Tables and data source](#Tables and data source)
-- [Data Structure](#data Structure)
-- [Medidas](#organização-do-banco-de-dados)
-- [Gráficos](#características-clínicas-dos-sintomas)
+- [Data Structure](#Data Structure)
+- [Measure and metrics](#Measure and metricss)
 - [Theme](#Theme)
 
 
@@ -38,7 +37,7 @@ The project contains 4 tables, in Excel Spreadsheet format.
 
 **Tabele Parameters**  
 Number of Columns: 4  
-Periodicity of processing: at user request 
+Periodicity of processing: at user request   
 Expected volume: to be defined  
 Purge routine: to be defined   
 Data period: from 2024-01-01
@@ -56,7 +55,7 @@ Data period: from 2024-01-01
 
 **Tabele Parameters**
 Number of Columns: 3  
-Periodicity of processing: at user request 
+Periodicity of processing: at user request   
 Expected volume: to be defined  
 Purge routine: to be defined   
 Data period: from 2024-01-01
@@ -112,6 +111,8 @@ Some of the dimension tables had a unique relationship between them.
 
 </p>
 
+# Measure and metrics
+
 # Theme
 
 To match the visual identity of the Bees company, we generated a color palette, which was used in the Dashboard theme.
@@ -124,7 +125,7 @@ To match the visual identity of the Bees company, we generated a color palette, 
   Cards and KPIS Font: Segoe UI Semibold  
   Headers Font: Segoe UI Semibold   
 
-**Page Parameters**
+**Page Parameters**  
   Page Size  
   Cover: Type 16:9  
   Overall: Height (px): 1000 x Width (px) 1280  
