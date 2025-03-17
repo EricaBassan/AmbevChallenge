@@ -13,8 +13,7 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 
 
 
-## Sumário
-
+## Summary
 - Tables and data source
 - Data Structure
 - Measure and metrics
