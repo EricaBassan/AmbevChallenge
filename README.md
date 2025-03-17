@@ -41,6 +41,8 @@ Volumetria esperada: a definir
 Rotina de expurgo: a definir
 Período de dados: a parti de 01/01/2024
 
+
+---
 **Table 2- Users**
 
 **Tabele structure**
@@ -57,6 +59,8 @@ Volumetria esperada: a definir
 Rotina de expurgo: a definir
 Período de dados: a parti de 01/01/2024
 
+
+---
 Table 3- Orders
 Column Name	     Type            Description
 order_id	       Numeric         Order Id
@@ -65,7 +69,7 @@ user_id          Numeric         User Id
 product_id	     Numeric         Product Id
 revenue	         Float           Order Revenue
 
-
+---
 Table 4- Items
 Column Name	     Type            Description
 item_id	         Numeric         Item Id (Primary Key)
