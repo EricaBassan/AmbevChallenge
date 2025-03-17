@@ -15,10 +15,10 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 
 ## Sumário
 
-- [Tables and data source]
-- [Data Structure]
-- [Measure and metrics]
-- [Theme]
+- Tables and data source
+- Data Structure
+- Measure and metrics
+- Theme
 
 
 
