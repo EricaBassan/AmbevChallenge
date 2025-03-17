@@ -30,23 +30,32 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 # Tables and data source
 O projeto continha 4 tabelas, em formato Planilha de Excel.
 
-Table 1- Targets
+**Table 1- Targets**
 
+**Tabele structure**
 
+**Tabele Parameters**
+Number of Columns: 3
+Periodicidade do processamento: diária e contínua
+Volumetria esperada: a definir
+Rotina de expurgo: a definir
+Período de dados: a parti de 01/01/2024
 
-Table 2- Users
+**Table 2- Users**
 
+**Tabele structure**
 | Column Name	 | Type | Description |
 |:------------|:------------|:------------|
 | user_id      | Numeric      | User Id (Primary Key)      |
 | category	       | String       | Category of the Place      |
 | city	       | String       | City of the user      |
 
-Column Name	     Type            Description
-user_id          Numeric         User Id (Primary Key)
-category	       String          Category of the Place
-city             String          City of the user
-
+**Tabele Parameters**
+Number of Columns: 3
+Periodicidade do processamento: diária e contínua
+Volumetria esperada: a definir
+Rotina de expurgo: a definir
+Período de dados: a parti de 01/01/2024
 
 Table 3- Orders
 Column Name	     Type            Description
