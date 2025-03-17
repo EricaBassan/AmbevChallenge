@@ -4,7 +4,7 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 
 <p align="center">
   <a href="">
-    <img src="Imagens\covid_cover.jpg"
+    <img src="Images\Bees-logo.jfif"
          alt="version">
   </a>
 
@@ -15,10 +15,10 @@ Repositório criado para documentação do Dashboard Ambev-BEES.
 
 ## Sumário
 
-- [Tables and data source](#Tables and data source)
-- [Data Structure](#Data Structure)
-- [Measure and metrics](#Measure and metrics)
-- [Theme](#Theme)
+- [Tables and data source]
+- [Data Structure]
+- [Measure and metrics]
+- [Theme]
 
 
 
@@ -105,7 +105,7 @@ Some of the dimension tables had a unique relationship between them.
 
 <p align="center">
   <a href="">
-    <img src="Imagens\covid_cover.jpg"
+    <img src="Images\Table-relationship.PNG"
          alt="version">
   </a>
 
@@ -134,7 +134,13 @@ The rest were classified as having no risk.
 
 To match the visual identity of the Bees company, we generated a color palette, which was used in the Dashboard theme.
 
+<p align="center">
+  <a href="">
+    <img src="Images\Colors.PNG"
+         alt="version">
+  </a>
 
+</p>
 
 **Font parameters**  
   General Font used: Segoe UI  
@@ -153,7 +159,7 @@ To match the visual identity of the Bees company, we generated a color palette, 
   **Cover WallPaper**
 <p align="center">
   <a href="">
-    <img src="Imagens\covid_cover.jpg"
+    <img src="Images\Cover.jpg"
          alt="version">
   </a>
 
@@ -163,7 +169,7 @@ To match the visual identity of the Bees company, we generated a color palette, 
 
 <p align="center">
   <a href="">
-    <img src="Imagens\covid_cover.jpg"
+    <img src="Images\Wallpaper.jpg"
          alt="version">
   </a>
 
